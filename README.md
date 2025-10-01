@@ -3,7 +3,7 @@ This repository contains my educational projects on machine learning.
 Each project is organized in a separate folder and has its own README with details.
 
 # List of Projects
-1. Titanic Survival Prediction (Classification)](./Seminar1/README.md)
+1. [Titanic Survival Prediction (Classification)](./Seminar1/README.md)
    - Dataset: `titanic.csv`
    - Goal: predict passenger survival.
    - Algorithms used: Decision Tree, Random Forest.
